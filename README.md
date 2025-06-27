@@ -29,10 +29,6 @@ Hi, I'm **Shailesh Sahani** – a passionate MERN Stack Developer from Uttar Pra
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
 
-## 📈 GitHub Stats:
-
-![Shailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaileshSahani007&show_icons=true&theme=tokyonight)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshSahani007&layout=compact&theme=tokyonight)](https://github.com/ShaileshSahani007)
 
 
 
